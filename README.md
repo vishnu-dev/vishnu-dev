@@ -7,17 +7,14 @@
 </p>
 
 <p align='center'>
-  <a href="https://instagram.com/iamvishnudev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://vishnudev.in">
+    <img src="https://img.shields.io/badge/Portfolio-https%3A%2F%2Fvishnudev.in-blue?style=for-the-badge" />
   </a>&nbsp;&nbsp;
   
   <a href="https://vishnu-dev.medium.com/">
     <img src="https://img.shields.io/badge/Medium-383838?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-  <a href="https://vishnudev.in">
-    <img src="https://img.shields.io/badge/Portfolio-https%3A%2F%2Fvishnudev.in-blue?style=for-the-badge" />
-  </a>
 </p>
 
 <p align='center'>
