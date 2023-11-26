@@ -1,9 +1,11 @@
+![](https://hit.yhype.me/github/profile?user_id=21088161)
+
 <h1 align='center'>
   Hello! I'm Vishnudev
 </h1>
 
 <p align='center'>
-  Exploring the multiverse of data
+  Exploring the Multiverse of Data using Artificial Intelligence
 </p>
 
 <p align='center'>
@@ -13,6 +15,10 @@
   
   <a href="https://vishnu-dev.medium.com/">
     <img src="https://img.shields.io/badge/Medium-383838?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://vishnudev.in">
+    <img src="https://komarev.com/ghpvc/?username=vishnu-dev&color=blue&style=for-the-badge" />
   </a>&nbsp;&nbsp;
   
 </p>
@@ -39,6 +45,7 @@
 <a href="#"><img align="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="#"><img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a href="#"><img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+
 <!-- 
 **FrameWorks**
 <a href="#"><img align="right" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>
